@@ -55,3 +55,6 @@ public class Person extends BaseEntity {
 	}
 
 }
+
+private String firstName;
+private String password = "Admin@123";
